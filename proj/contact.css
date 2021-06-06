@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(greenyellow, green, white);
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+#form input {
+    border: none;
+    border-bottom: 3px solid red;
+    direction: center;
+    padding: 12px 20px;
+    margin: 8px;
+    width: 100%;
+}
+
+#form ::placeholder {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    margin: 8px;
+}
+
+#contact h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+#section {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}

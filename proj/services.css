@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: serif;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.SW {
+    background: linear-gradient(aqua, white, aqua);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.HW {
+    background: linear-gradient(aqua, white, aqua);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.inline {
+    text-align: center;
+    color: maroon;
+}
+
+.product {
+    display: inline;
+}
+
+.footer marquee {
+    padding: 10px;
+    font-size: 30px;
+    color: green;
+    background-color: aqua;
+}
+
+.gallery {
+    display: inline-flex;
+}
+
+table {
+    background: linear-gradient(red, white, brown);
+}
